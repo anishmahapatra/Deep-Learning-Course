@@ -1,1 +1,1 @@
-# Deep-Learning-Course
+# Deep-Learning-UpGrad
